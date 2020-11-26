@@ -2,6 +2,6 @@ Imports System
 
 Module Program
     Sub Main(args As String())
-        Console.WriteLine("Hellod Mina !")
+        Console.WriteLine("Hello Excel!")
     End Sub
 End Module
