@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\darvi\\source\\repos\\AnalysingData\\AnalysingData\\AnalysingData.vbproj": {}
+    "C:\\Users\\darvi\\source\\repos\\analysingData\\AnalysingData\\AnalysingData.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\darvi\\source\\repos\\AnalysingData\\AnalysingData\\AnalysingData.vbproj": {
+    "C:\\Users\\darvi\\source\\repos\\analysingData\\AnalysingData\\AnalysingData.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\darvi\\source\\repos\\AnalysingData\\AnalysingData\\AnalysingData.vbproj",
+        "projectUniqueName": "C:\\Users\\darvi\\source\\repos\\analysingData\\AnalysingData\\AnalysingData.vbproj",
         "projectName": "AnalysingData",
-        "projectPath": "C:\\Users\\darvi\\source\\repos\\AnalysingData\\AnalysingData\\AnalysingData.vbproj",
+        "projectPath": "C:\\Users\\darvi\\source\\repos\\analysingData\\AnalysingData\\AnalysingData.vbproj",
         "packagesPath": "C:\\Users\\darvi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\darvi\\source\\repos\\AnalysingData\\AnalysingData\\obj\\",
+        "outputPath": "C:\\Users\\darvi\\source\\repos\\analysingData\\AnalysingData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\darvi\\AppData\\Roaming\\NuGet\\NuGet.Config",

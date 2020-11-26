@@ -1,0 +1,13 @@
+C:\Users\darvi\source\repos\analysingData\AnalysingData\bin\Debug\netcoreapp3.1\AnalysingData.exe
+C:\Users\darvi\source\repos\analysingData\AnalysingData\bin\Debug\netcoreapp3.1\AnalysingData.deps.json
+C:\Users\darvi\source\repos\analysingData\AnalysingData\bin\Debug\netcoreapp3.1\AnalysingData.runtimeconfig.json
+C:\Users\darvi\source\repos\analysingData\AnalysingData\bin\Debug\netcoreapp3.1\AnalysingData.runtimeconfig.dev.json
+C:\Users\darvi\source\repos\analysingData\AnalysingData\bin\Debug\netcoreapp3.1\AnalysingData.dll
+C:\Users\darvi\source\repos\analysingData\AnalysingData\bin\Debug\netcoreapp3.1\AnalysingData.pdb
+C:\Users\darvi\source\repos\analysingData\AnalysingData\obj\Debug\netcoreapp3.1\AnalysingData.vbprojAssemblyReference.cache
+C:\Users\darvi\source\repos\analysingData\AnalysingData\obj\Debug\netcoreapp3.1\AnalysingData.AssemblyInfoInputs.cache
+C:\Users\darvi\source\repos\analysingData\AnalysingData\obj\Debug\netcoreapp3.1\AnalysingData.AssemblyInfo.vb
+C:\Users\darvi\source\repos\analysingData\AnalysingData\obj\Debug\netcoreapp3.1\AnalysingData.vbproj.CoreCompileInputs.cache
+C:\Users\darvi\source\repos\analysingData\AnalysingData\obj\Debug\netcoreapp3.1\AnalysingData.dll
+C:\Users\darvi\source\repos\analysingData\AnalysingData\obj\Debug\netcoreapp3.1\AnalysingData.pdb
+C:\Users\darvi\source\repos\analysingData\AnalysingData\obj\Debug\netcoreapp3.1\AnalysingData.genruntimeconfig.cache
